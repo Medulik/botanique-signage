@@ -1,0 +1,10 @@
+1. Nahraj index.html a events.json do hlavni slozky GitHub repozitare (Add file > Upload files).
+2. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+3. Otevri zverejnenou GitHub Pages URL a over zobrazeni.
+4. V SignageLab vloz URL jako Website pouze do prostredni 70% zony displeje.
+5. Akce upravis na GitHubu v events.json (Edit > Commit changes).
+6. enabled true/false zapina/vypina akci. direction: left, right, up, down.
+7. Volitelne pridej start a end v ISO formatu vcetne casove zony, napr. 2026-10-13T08:30:00+02:00.
+8. Zobrazi se nejvyse 2 aktivni akce; kontrola dat kazdych 30 sekund.
+9. Pro loga vytvor na GitHubu slozku logos, nahraj PNG a nastav "logos":["logos/firma.png"].
+10. GitHub Pages je verejny web. Nezverejnuj interni nebo citlive udaje.
